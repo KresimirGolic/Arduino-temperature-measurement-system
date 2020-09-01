@@ -1,0 +1,6 @@
+12:34:00--Object temp:24.69--Ambient temp:25.41
+12:34:01--Object temp:24.69--Ambient temp:25.41
+12:34:02--Object temp:24.71--Ambient temp:25.43
+12:34:03--Object temp:24.71--Ambient temp:25.47
+12:34:04--Object temp:24.75--Ambient temp:25.41
+12:34:05--Object temp:24.65--Ambient temp:25.47

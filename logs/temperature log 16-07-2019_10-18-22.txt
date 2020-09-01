@@ -1,0 +1,13 @@
+10:18:23--Object temp:27.59--Ambient temp:26.67
+10:18:24--Object temp:27.59--Ambient temp:26.67
+10:18:25--Object temp:27.59--Ambient temp:26.69
+10:18:26--Object temp:27.53--Ambient temp:26.63
+10:18:27--Object temp:30.53--Ambient temp:26.69
+10:18:28--Object temp:31.01--Ambient temp:26.67
+10:18:29--Object temp:30.99--Ambient temp:26.65
+10:18:30--Object temp:30.77--Ambient temp:26.67
+10:18:31--Object temp:27.75--Ambient temp:26.67
+10:18:32--Object temp:29.71--Ambient temp:26.69
+10:18:33--Object temp:27.67--Ambient temp:26.71
+10:18:34--Object temp:27.69--Ambient temp:26.69
+10:18:35--Object temp:27.63--Ambient temp:26.71
